@@ -29,7 +29,7 @@ function calculateEntry(entrants) {
   + countEntrants(entrants).senior * 24.99 + countEntrants(entrants).child * 20.99;
 }
 
-console.log(calculateEntry());
+// console.log(calculateEntry());
 
 // expected = 0;
 
